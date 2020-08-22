@@ -1,1 +1,2 @@
 # SeleniumEasy-Cucumber
+maven project
