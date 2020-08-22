@@ -1,2 +1,3 @@
 # SeleniumEasy-Cucumber
-maven project
+This is a Maven project for website automation.
+Using the website - selenium easy
